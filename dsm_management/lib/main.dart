@@ -11,7 +11,7 @@ class Main extends StatelessWidget {
       theme: ThemeData(
           fontFamily: 'PSLpro',
           scaffoldBackgroundColor: Colors.white,
-          primaryColor: Colors.blueAccent,
+          primaryColor: Colors.pink[300],
           accentColor: Colors.amberAccent),
       title: 'DSM Management',
       home: Splash(),
